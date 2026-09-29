@@ -17,4 +17,4 @@ Customer churn analysis using SQL, Python, Logistic Regression, and Tableau.
 5. Interactive Tableau dashboard
 
 ## Dashboard
-[View Tableau Dashboard]([PASTE_YOUR_TABLEAU_LINK_HERE](https://public.tableau.com/views/CustomerChurnRiskTelcoDashboard/CustomerChurnRiskDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Tableau Dashboard](https://public.tableau.com/views/CustomerChurnRiskTelcoDashboard/CustomerChurnRiskDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
